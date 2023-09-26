@@ -2,3 +2,6 @@
 Templates for AWS Terraform CI/CD video
 
 - [YouTube Demo video](https://www.youtube.com/watch?v=scecLqTeP3k)
+
+1-add users info with 
+aws config list
