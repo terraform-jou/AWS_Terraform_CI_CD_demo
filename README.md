@@ -10,4 +10,4 @@ aws configure
 access_key
 secret_key
 
-2-
+2-add those as secret in github 
